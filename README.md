@@ -3,7 +3,7 @@
 **apuntes sobre el manejo de String** <br /> 
 **notes on string management**
 
-_listado de ejercicios_
+_listado de ejercicios_ <br />
 _list of exercises_
 
 
