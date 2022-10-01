@@ -1,8 +1,7 @@
 # java
 
-**apuntes sobre el manejo de String <br /> 
-notes on string management
-**
+**apuntes sobre el manejo de String** <br /> 
+**notes on string management**
 
 Listado de ejercicios:
 
