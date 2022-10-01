@@ -1,6 +1,6 @@
 # java
 
-**apuntes sobre el manejo de String
+**apuntes sobre el manejo de String <br /> 
 notes on string management
 **
 
