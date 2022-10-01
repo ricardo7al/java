@@ -8,6 +8,7 @@ _list of exercises_
 
 
 1)CompareString <br /> 
-2)ConcatenateString
+2)ConcatenateString <br />
+3)TestConcatString
 
 
