@@ -3,7 +3,8 @@
 **apuntes sobre el manejo de String** <br /> 
 **notes on string management**
 
-_Listado de ejercicios_
+_listado de ejercicios_
+_list of exercises_
 
 
 1)CompareString <br /> 
